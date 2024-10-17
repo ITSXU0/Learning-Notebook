@@ -1,2 +1,2 @@
 # Learning-Notebook
-Only used for learning.
+For learning only.
